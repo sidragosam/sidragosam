@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning Software Engineering at the University of Debrecen.
+
 
 <!--
 **sidragosam/sidragosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
