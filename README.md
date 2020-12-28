@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Software Engineering at the University of Debrecen.
+🌱 I’m currently learning Computer Science at the University of Debrecen.
 
 
 <!--
