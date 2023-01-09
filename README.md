@@ -1,6 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Computer Science at the University of Debrecen.
+🌱 I’m currently learning 💻 Computer Science MSc at the 🦉 University of Debrecen.
 
+📈 As a highly motivated and skilled software developer, I am constantly seeking to push the boundaries of what is possible and to learn new technologies. 💪🏼 With a strong background in computer science and a passion for creating innovative solutions, I thrive in collaborative environments and always strive to exceed expectations. 📊 Whether I am working on a solo project or contributing to a team effort, I bring a high level of dedication and attention to detail to every task at hand. 💡 In short, I am a driven and adaptable developer who is always looking for new challenges and opportunities to grow.
 
 <!--
 **sidragosam/sidragosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
