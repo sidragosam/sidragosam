@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
+- 💼 I’m currently working on my own **DevelopIT** game
+
 - 📝 I regularly write articles on [https://igneczitibor.hu](https://igneczitibor.hu)
 
 - 💬 Ask me about **lua**
