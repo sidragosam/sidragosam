@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidragosam" alt="sidragosam" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Angular**
 
 - 💼 I’m currently working on my own **DevelopIT** game
 
