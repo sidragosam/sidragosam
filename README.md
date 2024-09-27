@@ -4,26 +4,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sidragosam&label=Profile%20views&color=0e75b6&style=flat)
 
-### 🌱 Currently learning
-- Node.js
+🟣 Check my website [igneczitibor.hu](https://igneczitibor.hu)
 
-### 💼 Working on
-- My own **DevelopIT** game
+🌱 Currently learning `MERN stack`
 
-### 📝 Writing articles on
-- [igneczitibor.hu](https://igneczitibor.hu)
+💼 Working on `My own DevelopIT game`
 
-### 💬 Ask me about
-- Lua
+👯 I’m looking to collaborate for `Dev Projects`
 
-### 📫 Reach out to me
-- Email: [sidragxsam@gmail.com](mailto:sidragxsam@gmail.com)
+📝 Writing articles on [blog.igneczitibor.hu](https://blog.igneczitibor.hu)
 
-### 📄 Resume
-- [View my resume](https://igneczitibor.hu/resume.pdf)
+💬 Ask me about `web and game development`
 
-### ⚡ Fun fact
-- I play the guitar and the bass
+📫 Reach out to me `Email:` [sidragxsam@gmail.com](mailto:sidragxsam@gmail.com)
+
+📄 Resume [View my resume](https://igneczitibor.hu/resume.pdf)
+
+⚡ Fun fact `I love making videos and music`
 
 ---
 
@@ -50,23 +47,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidragosam&" alt="sidragosam" /></p>
 
-
-<!--### Hi there 👋
-🌱 I’m currently learning 💻 Computer Science MSc at the 🦉 University of Debrecen.
-
-📈 As a highly motivated and skilled software developer, I am constantly seeking to push the boundaries of what is possible and to learn new technologies. 💪🏼 With a strong background in computer science and a passion for creating innovative solutions, I thrive in collaborative environments and always strive to exceed expectations. 📊 Whether I am working on a solo project or contributing to a team effort, I bring a high level of dedication and attention to detail to every task at hand. 💡 In short, I am a driven and adaptable developer who is always looking for new challenges and opportunities to grow.
-
-
-**sidragosam/sidragosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
