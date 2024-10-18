@@ -8,7 +8,7 @@
 
 <p>
   <a href="[https://git.io/typing-svg](https://github.com/sidragosam)">
-    <img src="https://readme-typing-svg.demolab.com?font=Agdasima&size=32&duration=1500&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack;Game+Developer;Musician;Team+Leader&center=true&vCenter=true" alt="Dev" />
+    <img src="https://readme-typing-svg.demolab.com?font=Agdasima&size=32&duration=1500&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack;Game+Developer;Musician;Team+Leader&center=true&vCenter=true&random=true" alt="Dev" />
   </a>
 </p>
 <p>
