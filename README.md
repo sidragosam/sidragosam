@@ -1,4 +1,23 @@
-# Hi there 👋, I'm Tibor Ignéczi
+<div align="center">
+
+<p>
+  <a href="[https://igneczitibor.hu](https://igneczitibor.hu/)">
+    <img src="https://readme-typing-svg.demolab.com?font=Agdasima&size=32&duration=1&pause=1000&width=435&lines=Tibor+Ign%C3%A9czi&center=true&vCenter=true" alt="Tibor Igneczi" />
+  </a>
+</p>
+
+<p>
+  <a href="[https://git.io/typing-svg](https://github.com/sidragosam)">
+    <img src="https://readme-typing-svg.demolab.com?font=Agdasima&size=32&duration=1500&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack;Game+Developer;Musician;Team+Leader&center=true&vCenter=true" alt="Dev" />
+  </a>
+</p>
+<p>
+  <a href="[https://git.io/typing-svg](https://en.wikipedia.org/wiki/Hungary)">
+    <img src="https://readme-typing-svg.demolab.com?font=Agdasima&size=32&duration=1&pause=1000&width=435&lines=From+Hungary&center=true&vCenter=true" alt="Hungary" />
+  </a>
+</p>
+</div>
+
 
 ## A passionate developer from Hungary
 
