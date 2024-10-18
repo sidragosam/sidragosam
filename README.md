@@ -18,9 +18,6 @@
 </p>
 </div>
 
-
-## A passionate developer from Hungary
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sidragosam&label=Profile%20views&color=0e75b6&style=flat)
 
 🟣 Check my website [igneczitibor.hu](https://igneczitibor.hu)
