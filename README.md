@@ -63,3 +63,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidragosam&" alt="sidragosam" /></p>
 
+![image](https://github.com/user-attachments/assets/3018aa3e-123d-419a-8bd9-548cd06b3f7a)
+
