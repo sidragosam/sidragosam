@@ -43,7 +43,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tibor%20Ignéczi-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tibor-ignéczi-9b6233229)
-[![Facebook](https://img.shields.io/badge/Facebook-Gabor%20Csemete-blue?logo=facebook&logoColor=white)](https://fb.com/gabor.csemete)
+[![Facebook](https://img.shields.io/badge/Facebook-Tibor%20Ignéczi-blue?logo=facebook&logoColor=white)](https://www.facebook.com/igneczi7131)
 [![Instagram](https://img.shields.io/badge/Instagram-skyline.7131-blue?logo=instagram&logoColor=white)](https://instagram.com/skyline.7131)
 [![YouTube](https://img.shields.io/badge/YouTube-Skyline666-red?logo=youtube&logoColor=white)](https://www.youtube.com/c/skyline666)
 
